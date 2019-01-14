@@ -1,3 +1,3 @@
-# Free Audio Visualizer Privacy Policy
+# Audio Spectrum Visualizer Privacy Policy
 
-The Free Audio Visualizer iOS app doesn't require network connection, and doesn't collect or store any user data.
+The Audio Spectrum Visualizer iOS app doesn't require network connection, and doesn't collect or store any user data.
